@@ -59,11 +59,11 @@ One of my proudest projects is an **Auction-based Website Application** built wi
 
 ---
 
-## ☕ A Few Cozy Facts
+## ☕ A Few Extras
 
-- 📝 I love writing clean, readable code—Markdown is my jam!
+- 🏐 My hobbies include gaming, anime, volleyball, and creating hardware/peripherals!
 - 🔍 Always up for learning something new (currently exploring APIs and backend frameworks)
-- 🤝 Open to collaboration and cool ideas—let’s connect!
+- 🤝 Open to collaboration and cool ideas!
 
 ---
 
