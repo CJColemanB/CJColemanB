@@ -2,7 +2,7 @@
 
 Welcome to my GitHub space—grab a mug, get cozy, and explore my world of code and creativity.  
 I'm currently an **IT Technician** with ambitions to become a **Software Developer**. I'm always learning, building, and pushing the limits of what I can do!
-This is my second GitHub account, my first can be viewed ![GitHub](https://github.com/CJ-Coleman)
+This is my second GitHub account, my first can be viewed [![GitHub](https://github.com/CJ-Coleman)
 
 ---
 
