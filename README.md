@@ -71,4 +71,4 @@ One of my proudest projects is an **Auction-based Website Application** built wi
 
 Thanks for stopping by!  
 Feel free to check out my projects, reach out, or just say hi.  
-Happy coding! 🌈
+Happy coding! 
