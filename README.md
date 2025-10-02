@@ -8,7 +8,7 @@ This is my second GitHub account, my first can be viewed here:
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack - In order of expertise
 
 <!-- Programming Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
