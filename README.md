@@ -49,7 +49,7 @@ One of my proudest projects is an **Auction-based Website Application** built wi
 - **Backend:** Flask & SQLite  
 - **Payments:** Stripe API integration
 
-🔗 _Repo link coming soon!_
+🔗 [Here is the repo link for it]([url](https://github.com/ne-njaravani/Car-Auction-Web-App))
 
 ---
 
