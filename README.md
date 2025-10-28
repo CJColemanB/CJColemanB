@@ -79,6 +79,7 @@ Another one of my proudest projects is a **Device Logging Application** built by
 - **Additional Tools:** Use of .Gitignore file due to the nature of the project necessitating extensive privacy 
 
 🔗 [Here is the repo link for it](https://github.com/CJColemanB/DeviceLoggerV2)
+
 ---
 
 ## 🔗 Connect With Me
