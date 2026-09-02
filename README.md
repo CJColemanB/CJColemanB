@@ -1,4 +1,4 @@
-# Hi there, I'm CJ Coleman Benjamin! 👋
+# Hi there, I'm CJ Coleman Benjamin!
 
 I'm currently an **IT Technician** at Streatham & Clapham High School, with ambitions to become a **Product Manager**, **Solutions Engineer**, or a **Strategy Analyst**. I'm always learning, building, and pushing the limits of what I can do!
 This is my second GitHub account, my first can be viewed here:
@@ -7,7 +7,7 @@ This is my second GitHub account, my first can be viewed here:
 
 ---
 
-## 🚀 Tech Stack - In order of expertise
+## Tech Stack - In order of expertise
 ### Programming Environments
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)
@@ -56,7 +56,7 @@ This is my second GitHub account, my first can be viewed here:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CJColemanB&show_icons=true&theme=dark&hide_title=true" alt="CJColemanB's GitHub Stats" />
 <br/>
@@ -64,7 +64,7 @@ This is my second GitHub account, my first can be viewed here:
 
 ---
 
-## 🌟 Favorite Projects
+## Favorite Projects
 
 One of my proudest projects is an **Auction-based Website Application** built with an amazing team!  
 - **Frontend:** HTML, CSS, JavaScript  
@@ -90,17 +90,17 @@ Another one of my proudest projects is a **Device Logging Application** built by
 
 ---
 
-## ☕ A Few Extras
+## A Few Extras
 
-- 🏐 My hobbies include gaming, anime, volleyball & gym, and creating hardware/peripherals!
+-  My hobbies include gaming, anime, volleyball & gym, and creating hardware/peripherals!
 - **A couple of my side-projects include but aren't limited to:**
   - Building my own computer using premade parts (CPU, GPU, PSU, etc.)
   - Building my own keyboard (60% wireless, with 2.4GHz via a dongle, and bluetooth capabiltiies)
   - Setting up a fully self-owned cloud system via a NAS setup
   - Currently planning out a homelab to make my life at home more efficient
   - Currently researching Linux operating systems to either dual-boot or completely transfer my windows laptop to a Linux system
-- 🔍 Always up for learning something new (currently exploring APIs and backend frameworks)
-- 🤝 Open to collaboration and cool ideas!
+-  Always up for learning something new (currently exploring APIs and backend frameworks)
+-  Open to collaboration and cool ideas!
 
 ---
 
