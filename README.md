@@ -56,14 +56,6 @@ This is my second GitHub account, my first can be viewed here:
 
 ---
 
-## GitHub Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CJColemanB&show_icons=true&theme=dark&hide_title=true" alt="CJColemanB's GitHub Stats" />
-<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CJColemanB&layout=compact&theme=dark" alt="CJColemanB's Top Languages" />
-
----
-
 ## Favorite Projects
 
 One of my proudest projects is an **Auction-based Website Application** built with an amazing team!  
