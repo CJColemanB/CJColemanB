@@ -63,18 +63,18 @@ One of my proudest projects is an **Auction-based Website Application** built wi
 - **Backend:** Flask & SQLite  
 - **Payments:** Stripe API integration
 
-🔗 [Here is the repo link for it](https://github.com/ne-njaravani/Car-Auction-Web-App)
+[Here is the repo link for it](https://github.com/ne-njaravani/Car-Auction-Web-App)
 
 Another one of my proudest projects is a **Device Logging Application** built by myself for Streatham and & Clapham High School!
 - **Frontend:** Html, CSS, Javascript
 - **Backend:** FLask & SQLite
 - **Additional Tools:** Use of .Gitignore file due to the nature of the project necessitating extensive privacy 
 
-🔗 [Here is the repo link for it](https://github.com/CJColemanB/DeviceLoggerV2)
+[Here is the repo link for it](https://github.com/CJColemanB/DeviceLoggerV2)
 
 ---
 
-## 🔗 Connect With Me
+## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CJColemanB)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cj-coleman-benjamin-144433222/)
@@ -96,6 +96,5 @@ Another one of my proudest projects is a **Device Logging Application** built by
 
 ---
 
-Thanks for stopping by!  
-Feel free to check out my projects, reach out, or just say hi.  
+Thanks for stopping by!   
 Happy coding! 
